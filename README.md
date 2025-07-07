@@ -162,12 +162,6 @@ flutter build appbundle --release
 flutter build ios --release
 ```
 
-### Web
-```bash
-# Build for web
-flutter build web --release
-```
-
 ## Contributing
 
 1. Fork the repository
