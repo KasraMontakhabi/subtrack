@@ -36,8 +36,6 @@ A comprehensive Flutter application for managing and tracking your subscriptions
 ### Cross-Platform Support
 - **Android**: Full Android support with API 21+
 - **iOS**: Complete iOS compatibility
-- **Web**: Progressive Web App capabilities
-- **Desktop**: Windows, macOS, and Linux support
 
 ## Tech Stack 
 
